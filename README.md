@@ -1,5 +1,5 @@
 ## Olá! Gabriel Feitosa aqui 🖐
-#### Veja algumas habilidades minhas:
+#### Bem-vindo(a) ao meu GitHub.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielftsa)](https://github.com/anuraghazra/github-readme-stats)
 
